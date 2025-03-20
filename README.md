@@ -14,12 +14,13 @@ npm install bcrypt-ts
 ```
 
 ## 3. Struktur direktori
-
+```
 ├── app/
 │   └── api/
 │       └── auth/
 │           └── register.ts
 └── .env
+```
 
 ## 4. Definisi Tipe Data(TypeScript)
 ```ts
